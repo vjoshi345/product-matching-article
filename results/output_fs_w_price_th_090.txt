@@ -1,0 +1,83 @@
+match_weight|match_probability|source_dataset_l|source_dataset_r|unique_id_l|unique_id_r|Price_Cat_l|Price_Cat_r|gamma_Price_Cat|Title_l|Title_r|gamma_Title|Product_Type_l|Product_Type_r|gamma_Product_Type|Brand_l|Brand_r|gamma_Brand
+3.389862642559647|0.9129082906414177|df_left|df_right|161|220|700-800|800-900|0|Microsoft Surface Pro 7|Microsoft Surface Pro 7|4|Tablet|Laptop/Tablet|0|Microsoft|Microsoft|4
+3.389862642559647|0.9129082906414177|df_left|df_right|164|223|>=1000|900-1000|0|Dell XPS 13|Dell XPS 13|4|Laptop|Ultrabook|0|Dell|Dell|4
+3.389862642559647|0.9129082906414177|df_left|df_right|166|225|>=1000|900-1000|0|Samsung Q70T 55 Inch QLED|Samsung Q70T 55 Inch QLED|4|TV|Television|0|Samsung|Samsung|4
+3.389862642559647|0.9129082906414177|df_left|df_right|168|227|500-600|400-500|0|Microsoft Xbox Series X|Microsoft Xbox Series X|4|Gaming Console|Console|0|Microsoft|Microsoft|4
+3.389862642559647|0.9129082906414177|df_left|df_right|179|238|400-500|300-400|0|LG 27UK850-W 27 Inch 4K|LG 27UK850-W 27 Inch 4K|4|Monitor|Gaming Monitor|0|LG|LG|4
+3.389862642559647|0.9129082906414177|df_left|df_right|182|241|200-300|100-200|0|Logitech G Pro X Wireless|Logitech G Pro X Wireless|4|Gaming Headset|Headphones|0|Logitech|Logitech|4
+3.389862642559647|0.9129082906414177|df_left|df_right|185|244|600-700|500-600|0|Apple iPad Air|Apple iPad Air|4|Tablet|iPad|0|Apple|Apple|4
+3.389862642559647|0.9129082906414177|df_left|df_right|190|249|400-500|300-400|0|Dell S3221QS 32 Inch Curved|Dell S3221QS 32 Inch Curved|4|Monitor|Gaming Monitor|0|Dell|Dell|4
+3.389862642559647|0.9129082906414177|df_left|df_right|193|252|100-200|<100|0|Logitech MX Master 3|Logitech MX Master 3|4|Mouse|Wireless Mouse|0|Logitech|Logitech|4
+3.389862642559647|0.9129082906414177|df_left|df_right|196|255|400-500|300-400|0|Apple Watch Series 6|Apple Watch Series 6|4|Smartwatch|Fitness Watch|0|Apple|Apple|4
+3.389862642559647|0.9129082906414177|df_left|df_right|199|258|600-700|500-600|0|Microsoft Surface Laptop Go|Microsoft Surface Laptop Go|4|Laptop|Ultrabook|0|Microsoft|Microsoft|4
+3.389862642559647|0.9129082906414177|df_left|df_right|205|264|400-500|300-400|0|Samsung Galaxy A71|Samsung Galaxy A71|4|Smartphone|Phone|0|Samsung|Samsung|4
+3.389862642559647|0.9129082906414177|df_left|df_right|207|266|400-500|300-400|0|Vizio V-Series 50 Inch 4K|Vizio V-Series 50 Inch 4K|4|TV|Television|0|Vizio|Vizio|4
+5.785782866793483|0.9821965482358918|df_left|df_right|4|130|200-300|200-300|1|Apple AirPods Pro|Apple AirPods with Wireless Charging Case|1|Earbuds|Wireless Earbuds|0|Apple|Apple|4
+5.785782866793483|0.9821965482358918|df_left|df_right|13|227|400-500|400-500|1|Microsoft Surface Go 2|Microsoft Xbox Series X|1|Tablet|Console|0|Microsoft|Microsoft|4
+5.785782866793483|0.9821965482358918|df_left|df_right|14|241|100-200|100-200|1|Logitech G Pro X Mechanical Keyboard|Logitech G Pro X Wireless|1|Keyboard|Headphones|0|Logitech|Logitech|4
+5.785782866793483|0.9821965482358918|df_left|df_right|19|269|100-200|100-200|1|Fitbit Inspire 2|Fitbit Charge 4|1|Fitness Tracker|Smartwatch|0|Fitbit|Fitbit|4
+5.785782866793483|0.9821965482358918|df_left|df_right|156|74|200-300|200-300|1|Sony WH-1000XM4|Sony WF-1000XM3 True Wireless Noise Cancelling Earbuds|1|Headphones|Earbuds|0|Sony|Sony|4
+5.785782866793483|0.9821965482358918|df_left|df_right|168|258|500-600|500-600|1|Microsoft Xbox Series X|Microsoft Surface Laptop Go|1|Gaming Console|Ultrabook|0|Microsoft|Microsoft|4
+5.785782866793483|0.9821965482358918|df_left|df_right|193|241|100-200|100-200|1|Logitech MX Master 3|Logitech G Pro X Wireless|1|Mouse|Headphones|0|Logitech|Logitech|4
+5.785782866793483|0.9821965482358918|df_left|df_right|194|75|100-200|100-200|1|Samsung Galaxy Buds Plus|Samsung Galaxy Buds Live Wireless Earbuds|1|Earbuds|Wireless Earbuds|0|Samsung|Samsung|4
+5.785782866793483|0.9821965482358918|df_left|df_right|206|60|<100|<100|1|Logitech G502 HERO|Logitech C920x Pro HD Webcam|1|Mouse|Webcam|0|Logitech|Logitech|4
+5.785782866793483|0.9821965482358918|df_left|df_right|208|127|100-200|100-200|1|Jabra Elite 75t|Jabra Elite Active 75t Wireless Earbuds|1|Earbuds|Wireless Earbuds|0|Jabra|Jabra|4
+6.096191454536337|0.9855934064953522|df_left|df_right|2|75|100-200|100-200|1|Samsung Galaxy Buds Live|Samsung Galaxy Buds Live Wireless Earbuds|2|Earbuds|Wireless Earbuds|0|Samsung|Samsung|4
+6.096191454536337|0.9855934064953522|df_left|df_right|2|253|100-200|100-200|1|Samsung Galaxy Buds Live|Samsung Galaxy Buds Plus|2|Earbuds|Wireless Earbuds|0|Samsung|Samsung|4
+6.096191454536337|0.9855934064953522|df_left|df_right|167|226|400-500|400-500|1|GoPro HERO9 Black|GoPro Hero 9 Black|2|Action Camera|Camera|0|GoPro|GoPro|4
+6.096191454536337|0.9855934064953522|df_left|df_right|171|230|700-800|700-800|1|Canon PowerShot G7 X Mark III|Canon Powershot G7X Mark III|2|Camera|Compact Camera|0|Canon|Canon|4
+6.096191454536337|0.9855934064953522|df_left|df_right|205|239|400-500|400-500|1|Samsung Galaxy A71|Samsung Galaxy Watch 3|2|Smartphone|Fitness Watch|0|Samsung|Samsung|4
+6.341731530833312|0.9878205786825853|df_left|df_right|155|214|100-200|100-200|1|Nike Air Max 90|Nike Air Max 90|4|Sneakers|Shoes|0|Nike|Nikes|3
+6.717214669712738|0.9905852508191495|df_left|df_right|159|218|>=1000|>=1000|1|LG OLED55C1PUB 55 Inch 4K|LG OLED55C1PUB 55 Inch 4K|4|TV|Television|0|LG|LG|4
+6.717214669712738|0.9905852508191495|df_left|df_right|160|219|100-200|100-200|1|Adidas Ultraboost 21|Adidas Ultraboost 21|4|Running Shoes|Shoes|0|Adidas|Adidas|4
+6.717214669712738|0.9905852508191495|df_left|df_right|165|224|300-400|300-400|1|Bose QuietComfort 35 II|Bose QuietComfort 35 II|4|Headphones|Wireless|0|Bose|Bose|4
+6.717214669712738|0.9905852508191495|df_left|df_right|169|228|>=1000|>=1000|1|Asus ROG Strix G15|Asus ROG Strix G15|4|Gaming Laptop|Laptop|0|Asus|Asus|4
+6.717214669712738|0.9905852508191495|df_left|df_right|170|229|<100|<100|1|Nike Revolution 5|Nike Revolution 5|4|Running Shoes|Shoes|0|Nike|Nike|4
+6.717214669712738|0.9905852508191495|df_left|df_right|172|231|>=1000|>=1000|1|Apple iPhone 12 Pro Max|Apple iPhone 12 Pro Max|4|Smartphone|Phone|0|Apple|Apple|4
+6.717214669712738|0.9905852508191495|df_left|df_right|173|232|>=1000|>=1000|1|LG CX 55 Inch OLED TV|LG CX 55 Inch OLED TV|4|TV|Television|0|LG|LG|4
+6.717214669712738|0.9905852508191495|df_left|df_right|174|233|300-400|300-400|1|Garmin Forerunner 245 Music|Garmin Forerunner 245 Music|4|Smartwatch|Fitness Watch|0|Garmin|Garmin|4
+6.717214669712738|0.9905852508191495|df_left|df_right|175|234|>=1000|>=1000|1|Sony Alpha A7 III|Sony Alpha A7 III|4|Camera|DSLR Camera|0|Sony|Sony|4
+6.717214669712738|0.9905852508191495|df_left|df_right|176|235|100-200|100-200|1|Bose SoundLink Color II|Bose SoundLink Color II|4|Bluetooth Speaker|Portable Speaker|0|Bose|Bose|4
+6.717214669712738|0.9905852508191495|df_left|df_right|177|236|>=1000|>=1000|1|Razer Blade 15|Razer Blade 15|4|Gaming Laptop|Laptop|0|Razer|Razer|4
+6.717214669712738|0.9905852508191495|df_left|df_right|178|237|200-300|200-300|1|Fitbit Versa 3|Fitbit Versa 3|4|Smartwatch|Fitness Tracker|0|Fitbit|Fitbit|4
+6.717214669712738|0.9905852508191495|df_left|df_right|180|239|400-500|400-500|1|Samsung Galaxy Watch 3|Samsung Galaxy Watch 3|4|Smartwatch|Fitness Watch|0|Samsung|Samsung|4
+6.717214669712738|0.9905852508191495|df_left|df_right|181|240|100-200|100-200|1|JBL Flip 5|JBL Flip 5|4|Bluetooth Speaker|Portable Speaker|0|JBL|JBL|4
+6.717214669712738|0.9905852508191495|df_left|df_right|183|242|600-700|600-700|1|Samsung Galaxy Tab S7|Samsung Galaxy Tab S7|4|Tablet|Android Tablet|0|Samsung|Samsung|4
+6.717214669712738|0.9905852508191495|df_left|df_right|184|243|>=1000|>=1000|1|Canon EOS 90D|Canon EOS 90D|4|Camera|DSLR Camera|0|Canon|Canon|4
+6.717214669712738|0.9905852508191495|df_left|df_right|186|245|200-300|200-300|1|Garmin Venu Sq|Garmin Venu Sq|4|Smartwatch|Fitness Watch|0|Garmin|Garmin|4
+6.717214669712738|0.9905852508191495|df_left|df_right|187|246|<100|<100|1|Sony WH-CH510|Sony WH-CH510|4|Headphones|Wireless|0|Sony|Sony|4
+6.717214669712738|0.9905852508191495|df_left|df_right|188|247|200-300|200-300|1|Bose Home Speaker 300|Bose Home Speaker 300|4|Smart Speaker|Wireless Speaker|0|Bose|Bose|4
+6.717214669712738|0.9905852508191495|df_left|df_right|189|248|700-800|700-800|1|OnePlus 8T|OnePlus 8T|4|Smartphone|Phone|0|OnePlus|OnePlus|4
+6.717214669712738|0.9905852508191495|df_left|df_right|191|250|100-200|100-200|1|JBL Charge 4|JBL Charge 4|4|Bluetooth Speaker|Portable Speaker|0|JBL|JBL|4
+6.717214669712738|0.9905852508191495|df_left|df_right|192|251|<100|<100|1|Roku Streaming Stick+|Roku Streaming Stick+|4|Streaming Device|Media Player|0|Roku|Roku|4
+6.717214669712738|0.9905852508191495|df_left|df_right|194|253|100-200|100-200|1|Samsung Galaxy Buds Plus|Samsung Galaxy Buds Plus|4|Earbuds|Wireless Earbuds|0|Samsung|Samsung|4
+6.717214669712738|0.9905852508191495|df_left|df_right|195|254|300-400|300-400|1|HP Pavilion 27xw 27 Inch IPS|HP Pavilion 27xw 27 Inch IPS|4|Monitor|Gaming Monitor|0|HP|HP|4
+6.717214669712738|0.9905852508191495|df_left|df_right|197|256|300-400|300-400|1|Google Pixel 4a|Google Pixel 4a|4|Smartphone|Phone|0|Google|Google|4
+6.717214669712738|0.9905852508191495|df_left|df_right|198|257|>=1000|>=1000|1|LG SN11RG 7.1.4 ch Sound Bar|LG SN11RG 7.1.4 ch Sound Bar|4|Soundbar|Audio Device|0|LG|LG|4
+6.717214669712738|0.9905852508191495|df_left|df_right|200|259|300-400|300-400|1|Beats Studio3 Wireless|Beats Studio3 Wireless|4|Headphones|Wireless|0|Beats|Beats|4
+6.717214669712738|0.9905852508191495|df_left|df_right|202|261|200-300|200-300|1|Xiaomi Redmi Note 9|Xiaomi Redmi Note 9|4|Smartphone|Phone|0|Xiaomi|Xiaomi|4
+6.717214669712738|0.9905852508191495|df_left|df_right|203|262|100-200|100-200|1|HP Pavilion 22cwa 21.5 Inch|HP Pavilion 22cwa 21.5 Inch|4|Monitor|Gaming Monitor|0|HP|HP|4
+6.717214669712738|0.9905852508191495|df_left|df_right|204|263|900-1000|900-1000|1|Apple MacBook Air|Apple MacBook Air|4|Laptop|Ultrabook|0|Apple|Apple|4
+6.717214669712738|0.9905852508191495|df_left|df_right|206|265|<100|<100|1|Logitech G502 HERO|Logitech G502 HERO|4|Mouse|Gaming Mouse|0|Logitech|Logitech|4
+6.717214669712738|0.9905852508191495|df_left|df_right|208|267|100-200|100-200|1|Jabra Elite 75t|Jabra Elite 75t|4|Earbuds|Wireless Earbuds|0|Jabra|Jabra|4
+6.717214669712738|0.9905852508191495|df_left|df_right|209|268|800-900|800-900|1|Acer Nitro 5|Acer Nitro 5|4|Gaming Laptop|Laptop|0|Acer|Acer|4
+6.717214669712738|0.9905852508191495|df_left|df_right|210|269|100-200|100-200|1|Fitbit Charge 4|Fitbit Charge 4|4|Fitness Tracker|Smartwatch|0|Fitbit|Fitbit|4
+6.717214669712738|0.9905852508191495|df_left|df_right|211|270|>=1000|>=1000|1|Lenovo Legion Y540|Lenovo Legion Y540|4|Gaming Laptop|Laptop|0|Lenovo|Lenovo|4
+6.886838658780702|0.9916208371220472|df_left|df_right|156|215|200-300|200-300|1|Sony WH-1000XM4|Sony WH-1000XM4|4|Headphones||-1|Sony|Sony|4
+7.019250334291441|0.9923500255001767|df_left|df_right|19|237|100-200|200-300|0|Fitbit Inspire 2|Fitbit Versa 3|1|Fitness Tracker|Fitness Tracker|4|Fitbit|Fitbit|4
+7.019250334291441|0.9923500255001767|df_left|df_right|178|269|200-300|100-200|0|Fitbit Versa 3|Fitbit Charge 4|1|Smartwatch|Smartwatch|4|Fitbit|Fitbit|4
+7.019250334291441|0.9923500255001767|df_left|df_right|205|217|400-500|800-900|0|Samsung Galaxy A71|Samsung Galaxy S20 Ultra|1|Smartphone|Smartphone|4|Samsung|Samsung|4
+7.019250334291441|0.9923500255001767|df_left|df_right|210|237|100-200|200-300|0|Fitbit Charge 4|Fitbit Versa 3|1|Fitness Tracker|Fitness Tracker|4|Fitbit|Fitbit|4
+7.06053670649461|0.9925642412499609|df_left|df_right|162|221|500-600|500-600|1|Canon EOS Rebel T7|Canon EOS Rebel T7i|3|Camera|DSLR Camera|0|Canon|Canon|4
+7.06053670649461|0.9925642412499609|df_left|df_right|163|222|500-600|500-600|1|Sony PlayStation 5|Sony Playstation 5|3|Gaming Console|Console|0|Sony|Sony|4
+7.329658922034295|0.9938218090151039|df_left|df_right|204|216|900-1000|>=1000|0|Apple MacBook Air|Apple Macbook Pro|2|Laptop|Laptop|4|Apple|Apple|4
+10.346602361444532|0.9992325874009302|df_left|df_right|176|71|100-200|100-200|1|Bose SoundLink Color II|Bose SoundLink Color Bluetooth Speaker|1|Bluetooth Speaker|Bluetooth Speaker|4|Bose|Bose|4
+10.346602361444532|0.9992325874009302|df_left|df_right|181|72|100-200|100-200|1|JBL Flip 5|JBL Flip 5 Waterproof Portable Bluetooth Speaker|1|Bluetooth Speaker|Bluetooth Speaker|4|JBL|JBL|4
+10.346602361444532|0.9992325874009302|df_left|df_right|191|123|100-200|100-200|1|JBL Charge 4|JBL Charge 4 Waterproof Portable Bluetooth Speaker|1|Bluetooth Speaker|Bluetooth Speaker|4|JBL|JBL|4
+10.346602361444532|0.9992325874009302|df_left|df_right|210|131|100-200|100-200|1|Fitbit Charge 4|Fitbit Charge 4 Fitness and Activity Tracker|1|Fitness Tracker|Fitness Tracker|4|Fitbit|Fitbit|4
+10.657010949187386|0.9993810562909591|df_left|df_right|153|212|<100|<100|1|Levis Men 505 Regular|Levs Men 505|2|Jeans|Jeans|4|Levis|Levis|4
+10.657010949187386|0.9993810562909591|df_left|df_right|154|213|300-400|300-400|1|Toshiba C350 55 in 4k|Toshiba C350 4k Fire TV|2|Smart TV|Smart TV|4|Toshiba|Toshiba|4
+10.657010949187386|0.9993810562909591|df_left|df_right|158|217|800-900|800-900|1|Samsung Galaxy S20|Samsung Galaxy S20 Ultra|2|Smartphone|Smartphone|4|Samsung|Samsung|4
+10.657010949187386|0.9993810562909591|df_left|df_right|174|76|300-400|300-400|1|Garmin Forerunner 245 Music|Garmin Forerunner 245 Music GPS Running Smartwatch|2|Smartwatch|Smartwatch|4|Garmin|Garmin|4
+10.657010949187386|0.9993810562909591|df_left|df_right|176|121|100-200|100-200|1|Bose SoundLink Color II|Bose SoundLink Color Bluetooth Speaker II|2|Bluetooth Speaker|Bluetooth Speaker|4|Bose|Bose|4
+11.621356201145659|0.9996826888268006|df_left|df_right|157|216|>=1000|>=1000|1|Apple MacBook Pro|Apple Macbook Pro|3|Laptop|Laptop|4|Apple|Apple|4

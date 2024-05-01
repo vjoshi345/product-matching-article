@@ -1,0 +1,60 @@
+Title_A|Product_Type_A|Brand_A|Price_A|Title_B|Product_Type_B|Brand_B|Price_B|unique_id_a|unique_id_b
+Levis Men 505 Regular|Jeans|Levis|55|Levs Men 505|Jeans|Levis|56|153|212
+Toshiba C350 55 in 4k|Smart TV|Toshiba|350|Toshiba C350 4k Fire TV|Smart TV|Toshiba|370|154|213
+Nike Air Max 90|Sneakers|Nike|120|Nike Air Max 90|Shoes|Nikes|120|155|214
+Sony WH-1000XM4|Headphones|Sony|275|Sony WH-1000XM4||Sony|275|156|215
+Apple MacBook Pro|Laptop|Apple|1200|Apple Macbook Pro|Laptop|Apple|1180|157|216
+Samsung Galaxy S20|Smartphone|Samsung|800|Samsung Galaxy S20 Ultra|Smartphone|Samsung|820|158|217
+LG OLED55C1PUB 55 Inch 4K|TV|LG|1500|LG OLED55C1PUB 55 Inch 4K|Television|LG|1490|159|218
+Adidas Ultraboost 21|Running Shoes|Adidas|180|Adidas Ultraboost 21|Shoes|Adidas|179|160|219
+Microsoft Surface Pro 7|Tablet|Microsoft|799|Microsoft Surface Pro 7|Laptop/Tablet|Microsoft|820|161|220
+Canon EOS Rebel T7|Camera|Canon|500|Canon EOS Rebel T7i|DSLR Camera|Canon|520|162|221
+Sony PlayStation 5|Gaming Console|Sony|500|Sony Playstation 5|Console|Sony|520|163|222
+Dell XPS 13|Laptop|Dell|1000|Dell XPS 13|Ultrabook|Dell|980|164|223
+Bose QuietComfort 35 II|Headphones|Bose|300|Bose QuietComfort 35 II|Wireless|Bose|310|165|224
+Samsung Q70T 55 Inch QLED|TV|Samsung|1000|Samsung Q70T 55 Inch QLED|Television|Samsung|990|166|225
+GoPro HERO9 Black|Action Camera|GoPro|450|GoPro Hero 9 Black|Camera|GoPro|460|167|226
+Microsoft Xbox Series X|Gaming Console|Microsoft|500|Microsoft Xbox Series X|Console|Microsoft|490|168|227
+Asus ROG Strix G15|Gaming Laptop|Asus|1500|Asus ROG Strix G15|Laptop|Asus|1480|169|228
+Nike Revolution 5|Running Shoes|Nike|65|Nike Revolution 5|Shoes|Nike|63|170|229
+Canon PowerShot G7 X Mark III|Camera|Canon|700|Canon Powershot G7X Mark III|Compact Camera|Canon|720|171|230
+Apple iPhone 12 Pro Max|Smartphone|Apple|1200|Apple iPhone 12 Pro Max|Phone|Apple|1180|172|231
+LG CX 55 Inch OLED TV|TV|LG|1800|LG CX 55 Inch OLED TV|Television|LG|1780|173|232
+Garmin Forerunner 245 Music|Smartwatch|Garmin|300|Garmin Forerunner 245 Music|Fitness Watch|Garmin|305|174|233
+Sony Alpha A7 III|Camera|Sony|2000|Sony Alpha A7 III|DSLR Camera|Sony|1980|175|234
+Bose SoundLink Color II|Bluetooth Speaker|Bose|120|Bose SoundLink Color II|Portable Speaker|Bose|115|176|235
+Razer Blade 15|Gaming Laptop|Razer|1600|Razer Blade 15|Laptop|Razer|1580|177|236
+Fitbit Versa 3|Smartwatch|Fitbit|200|Fitbit Versa 3|Fitness Tracker|Fitbit|205|178|237
+LG 27UK850-W 27 Inch 4K|Monitor|LG|400|LG 27UK850-W 27 Inch 4K|Gaming Monitor|LG|395|179|238
+Samsung Galaxy Watch 3|Smartwatch|Samsung|400|Samsung Galaxy Watch 3|Fitness Watch|Samsung|410|180|239
+JBL Flip 5|Bluetooth Speaker|JBL|100|JBL Flip 5|Portable Speaker|JBL|105|181|240
+Logitech G Pro X Wireless|Gaming Headset|Logitech|200|Logitech G Pro X Wireless|Headphones|Logitech|198|182|241
+Samsung Galaxy Tab S7|Tablet|Samsung|650|Samsung Galaxy Tab S7|Android Tablet|Samsung|645|183|242
+Canon EOS 90D|Camera|Canon|1200|Canon EOS 90D|DSLR Camera|Canon|1185|184|243
+Apple iPad Air|Tablet|Apple|600|Apple iPad Air|iPad|Apple|595|185|244
+Garmin Venu Sq|Smartwatch|Garmin|200|Garmin Venu Sq|Fitness Watch|Garmin|205|186|245
+Sony WH-CH510|Headphones|Sony|60|Sony WH-CH510|Wireless|Sony|62|187|246
+Bose Home Speaker 300|Smart Speaker|Bose|250|Bose Home Speaker 300|Wireless Speaker|Bose|255|188|247
+OnePlus 8T|Smartphone|OnePlus|750|OnePlus 8T|Phone|OnePlus|740|189|248
+Dell S3221QS 32 Inch Curved|Monitor|Dell|400|Dell S3221QS 32 Inch Curved|Gaming Monitor|Dell|395|190|249
+JBL Charge 4|Bluetooth Speaker|JBL|150|JBL Charge 4|Portable Speaker|JBL|155|191|250
+Roku Streaming Stick+|Streaming Device|Roku|50|Roku Streaming Stick+|Media Player|Roku|55|192|251
+Logitech MX Master 3|Mouse|Logitech|100|Logitech MX Master 3|Wireless Mouse|Logitech|98|193|252
+Samsung Galaxy Buds Plus|Earbuds|Samsung|150|Samsung Galaxy Buds Plus|Wireless Earbuds|Samsung|145|194|253
+HP Pavilion 27xw 27 Inch IPS|Monitor|HP|300|HP Pavilion 27xw 27 Inch IPS|Gaming Monitor|HP|305|195|254
+Apple Watch Series 6|Smartwatch|Apple|400|Apple Watch Series 6|Fitness Watch|Apple|395|196|255
+Google Pixel 4a|Smartphone|Google|350|Google Pixel 4a|Phone|Google|355|197|256
+LG SN11RG 7.1.4 ch Sound Bar|Soundbar|LG|1500|LG SN11RG 7.1.4 ch Sound Bar|Audio Device|LG|1480|198|257
+Microsoft Surface Laptop Go|Laptop|Microsoft|600|Microsoft Surface Laptop Go|Ultrabook|Microsoft|590|199|258
+Beats Studio3 Wireless|Headphones|Beats|350|Beats Studio3 Wireless|Wireless|Beats|355|200|259
+Bose Frames Alto|Sunglasses|Bose|200|Bose Frames Alto|Audio Sunglasses|Bose|195|201|260
+Xiaomi Redmi Note 9|Smartphone|Xiaomi|250|Xiaomi Redmi Note 9|Phone|Xiaomi|255|202|261
+HP Pavilion 22cwa 21.5 Inch|Monitor|HP|150|HP Pavilion 22cwa 21.5 Inch|Gaming Monitor|HP|155|203|262
+Apple MacBook Air|Laptop|Apple|900|Apple MacBook Air|Ultrabook|Apple|920|204|263
+Samsung Galaxy A71|Smartphone|Samsung|400|Samsung Galaxy A71|Phone|Samsung|390|205|264
+Logitech G502 HERO|Mouse|Logitech|80|Logitech G502 HERO|Gaming Mouse|Logitech|78|206|265
+Vizio V-Series 50 Inch 4K|TV|Vizio|400|Vizio V-Series 50 Inch 4K|Television|Vizio|395|207|266
+Jabra Elite 75t|Earbuds|Jabra|150|Jabra Elite 75t|Wireless Earbuds|Jabra|145|208|267
+Acer Nitro 5|Gaming Laptop|Acer|800|Acer Nitro 5|Laptop|Acer|820|209|268
+Fitbit Charge 4|Fitness Tracker|Fitbit|120|Fitbit Charge 4|Smartwatch|Fitbit|125|210|269
+Lenovo Legion Y540|Gaming Laptop|Lenovo|1200|Lenovo Legion Y540|Laptop|Lenovo|1180|211|270

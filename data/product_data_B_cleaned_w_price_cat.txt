@@ -1,0 +1,193 @@
+Title|Product_Type|Brand|Price|unique_id|Price_Cat
+Levis 511 Slim Fit Jeans|Jeans|Levis|60.0|20|<100
+Calvin Klein Men's Dress Shirt|Shirt|Calvin Klein|45.0|21|<100
+Nike Dri-FIT Men's Training Shorts|Shorts|Nike|35.0|22|<100
+Adidas Essentials 3-Stripes Hoodie|Hoodie|Adidas|50.0|23|<100
+Under Armour Women's Sports Bra|Sports Bra|Under Armour|25.0|24|<100
+The North Face Borealis Backpack|Backpack|The North Face|90.0|25|<100
+Le Creuset Cast Iron Skillet|Skillet|Le Creuset|100.0|26|100-200
+Instant Pot Duo 6 Quart Pressure Cooker|Pressure Cooker|Instant Pot|80.0|27|<100
+Char-Griller Patio Pro Charcoal Grill|Charcoal Grill|Char-Griller|150.0|28|100-200
+Dyson V8 Animal Cordless Vacuum Cleaner|Vacuum Cleaner|Dyson|300.0|29|300-400
+Nespresso VertuoPlus Coffee and Espresso Machine|Coffee Machine|Nespresso|150.0|30|100-200
+Keurig K-Mini Single Serve Coffee Maker|Coffee Maker|Keurig|80.0|31|<100
+Cuisinart 14-Cup Food Processor|Food Processor|Cuisinart|200.0|32|200-300
+Oster 6-Slice Toaster Oven|Toaster Oven|Oster|70.0|33|<100
+Shark Navigator Lift-Away Professional|Vacuum Cleaner|Shark|200.0|34|200-300
+Brother HL-L2350DW Compact Monochrome Laser Printer|Printer|Brother|100.0|35|100-200
+AmazonBasics Microfiber Sheet Set|Sheet Set|AmazonBasics|30.0|36|<100
+Rivet Modern Leather Loveseat|Loveseat|Rivet|500.0|37|500-600
+Zinus Memory Foam 12 Inch Green Tea Mattress|Mattress|Zinus|300.0|38|300-400
+Ikea Hemnes 8-Drawer Dresser|Dresser|Ikea|250.0|39|200-300
+Wayfair Basics 1800 Series Sheet Set|Sheet Set|Wayfair Basics|25.0|40|<100
+Columbia Women's Benton Springs Full Zip Fleece Jacket|Fleece Jacket|Columbia|45.0|41|<100
+Levi's Men's Sherpa Trucker Jacket|Jacket|Levi's|80.0|42|<100
+UGG Women's Classic Short II Boot|Boots|UGG|150.0|43|100-200
+Crocs Classic Clog|Clogs|Crocs|40.0|44|<100
+Sperry Men's Authentic Original Boat Shoe|Boat Shoe|Sperry|80.0|45|<100
+Clarks Women's Breeze Sea Flip Flop|Flip Flop|Clarks|30.0|46|<100
+Calvin Klein Men's Underwear Cotton Classics Multipack Boxer Briefs|Boxer Briefs|Calvin Klein|35.0|47|<100
+Hanes Men's Long Sleeve Beefy Henley Shirt|Henley Shirt|Hanes|20.0|48|<100
+Dickies Men's Original 874 Work Pant|Work Pant|Dickies|25.0|49|<100
+Levi's Women's 721 High Rise Skinny Jeans|Skinny Jeans|Levi's|50.0|50|<100
+Skechers Women's D'Lites Memory Foam Lace-up Sneaker|Sneaker|Skechers|60.0|51|<100
+New Balance Men's Fresh Foam Roav V1 Sneaker|Sneaker|New Balance|70.0|52|<100
+Cole Haan Men's Grand Crosscourt II Sneakers|Sneakers|Cole Haan|90.0|53|<100
+Converse Chuck Taylor All Star Low Top Sneaker|Sneaker|Converse|55.0|54|<100
+Vans Unisex Old Skool Classic Skate Shoes|Skate Shoes|Vans|65.0|55|<100
+Samsung 70 Inch Class 6 Series LED 4K UHD Smart Tizen TV|TV|Samsung|900.0|56|900-1000
+LG 65 Inch Class CX Series OLED 4K UHD Smart webOS TV|TV|LG|1400.0|57|>=1000
+Sony X800H 55 Inch TV|TV|Sony|600.0|58|600-700
+TCL 32 Inch 3-Series HD Roku Smart TV|TV|TCL|150.0|59|100-200
+Logitech C920x Pro HD Webcam|Webcam|Logitech|70.0|60|<100
+Ring Video Doorbell 3|Doorbell|Ring|200.0|61|200-300
+August Smart Lock Pro|Smart Lock|August|220.0|62|200-300
+Eufy RoboVac 11S MAX|Robotic Vacuum|Eufy|250.0|63|200-300
+Bissell Cleanview Swivel Pet Upright Bagless Vacuum Cleaner|Vacuum Cleaner|Bissell|120.0|64|100-200
+Roku Express HD Streaming Media Player|Streaming Device|Roku|30.0|65|<100
+Apple TV 4K|Streaming Device|Apple|180.0|66|100-200
+Fire TV Stick 4K Streaming Device with Alexa Voice Remote|Streaming Device|Amazon|50.0|67|<100
+Amazon Echo Dot (4th Gen) Smart Speaker with Alexa|Smart Speaker|Amazon|30.0|68|<100
+Google Nest Mini (2nd Generation) Smart Speaker with Google Assistant|Smart Speaker|Google|35.0|69|<100
+Sonos One (Gen 2) Smart Speaker|Smart Speaker|Sonos|180.0|70|100-200
+Bose SoundLink Color Bluetooth Speaker|Bluetooth Speaker|Bose|120.0|71|100-200
+JBL Flip 5 Waterproof Portable Bluetooth Speaker|Bluetooth Speaker|JBL|100.0|72|100-200
+Beats Solo Pro Wireless Noise Cancelling On-Ear Headphones|Headphones|Beats|250.0|73|200-300
+Sony WF-1000XM3 True Wireless Noise Cancelling Earbuds|Earbuds|Sony|200.0|74|200-300
+Samsung Galaxy Buds Live Wireless Earbuds|Wireless Earbuds|Samsung|170.0|75|100-200
+Garmin Forerunner 245 Music GPS Running Smartwatch|Smartwatch|Garmin|300.0|76|300-400
+Sauder Beginnings 3-Shelf Bookcase|Bookcase|Sauder|40.0|77|<100
+IKEA Kallax Shelving Unit|Shelving Unit|IKEA|70.0|78|<100
+Mainstays Parsons Desk with Drawer|Desk|Mainstays|50.0|79|<100
+Walker Edison Modern Farmhouse TV Stand|TV Stand|Walker Edison|150.0|80|100-200
+Linenspa 8 Inch Memory Foam and Innerspring Hybrid Mattress|Mattress|Linenspa|180.0|81|100-200
+Zinus 14 Inch SmartBase Mattress Foundation|Mattress Foundation|Zinus|100.0|82|100-200
+DHP Emily Futon Sofa Bed|Futon|DHP|200.0|83|200-300
+Cosco Deluxe 6 Foot x 30 Inch Fold-in-Half Blow Molded Folding Table|Folding Table|Cosco|50.0|84|<100
+Winsome Wood Alden Lap Desk|Lap Desk|Winsome Wood|20.0|85|<100
+Amazon Basics Classic Computer Desk with Shelves|Computer Desk|Amazon Basics|50.0|86|<100
+Honeywell HT-900 TurboForce Air Circulator Fan|Fan|Honeywell|20.0|87|<100
+Sunbeam Heating Pad for Pain Relief|Heating Pad|Sunbeam|25.0|88|<100
+Holmes Dual Blade Twin Window Fan|Window Fan|Holmes|35.0|89|<100
+Dyson Pure Cool Link Air Purifier|Air Purifier|Dyson|400.0|90|400-500
+RCA RFR322-B RFR322 3.2 Cu Ft Single Door Mini Fridge|Mini Fridge|RCA|150.0|91|100-200
+Hamilton Beach 2-Slice Extra Wide Slot Toaster|Toaster|Hamilton Beach|25.0|92|<100
+BLACK+DECKER 4-Slice Toaster Oven|Toaster Oven|BLACK+DECKER|40.0|93|<100
+Crock-Pot 6-Quart Programmable Slow Cooker|Slow Cooker|Crock-Pot|50.0|94|<100
+Presto 03430 Pizzazz Plus Rotating Oven|Pizza Oven|Presto|50.0|95|<100
+Ninja AF101 Air Fryer|Air Fryer|Ninja|100.0|96|100-200
+Instant Pot Duo Plus 9-in-1 Electric Pressure Cooker|Pressure Cooker|Instant Pot|120.0|97|100-200
+Keurig K-Classic Coffee Maker|Coffee Maker|Keurig|90.0|98|<100
+Bissell Cleanview Swivel Rewind Pet Upright Bagless Vacuum Cleaner|Vacuum Cleaner|Bissell|120.0|99|100-200
+Hoover PowerDash Pet Compact Carpet Cleaner|Carpet Cleaner|Hoover|90.0|100|<100
+O-Cedar EasyWring Microfiber Spin Mop and Bucket Floor Cleaning System|Mop|O-Cedar|30.0|101|<100
+Rubbermaid Reveal Power Scrubber, Grout & Tile Bathroom Cleaner|Bathroom Cleaner|Rubbermaid|20.0|102|<100
+Lysol Clean & Fresh Multi-Surface Cleaner|Multi-Surface Cleaner|Lysol|10.0|103|<100
+Tide Pods Laundry Detergent Pacs, Spring Meadow Scent|Laundry Detergent|Tide|20.0|104|<100
+Swiffer Sweeper Dry and Wet Floor Mopping and Cleaning Starter Kit|Floor Cleaner|Swiffer|12.0|105|<100
+Mr. Clean Magic Eraser Cleaning Sheets|Cleaning Sheets|Mr. Clean|5.0|106|<100
+Clorox Disinfecting Wipes|Disinfecting Wipes|Clorox|8.0|107|<100
+Method All-Purpose Cleaner Spray, Pink Grapefruit|All-Purpose Cleaner|Method|4.0|108|<100
+Frigidaire 5,000 BTU Window Air Conditioner|Air Conditioner|Frigidaire|150.0|109|100-200
+Midea MAP08R1CWT 3-in-1 Portable Air Conditioner|Portable Air Conditioner|Midea|300.0|110|300-400
+Honeywell MO08CESWK Compact Portable Air Conditioner|Compact Portable Air Conditioner|Honeywell|350.0|111|300-400
+Emerson Sensi Wi-Fi Smart Thermostat|Smart Thermostat|Emerson|100.0|112|100-200
+Nest Learning Thermostat|Learning Thermostat|Nest|200.0|113|200-300
+Ecobee3 Lite Smart Thermostat|Smart Thermostat|Ecobee|150.0|114|100-200
+Ring Video Doorbell Wired|Video Doorbell|Ring|60.0|115|<100
+Google Nest Hello Video Doorbell|Video Doorbell|Google|200.0|116|200-300
+August Wi-Fi Smart Lock|Smart Lock|August|250.0|117|200-300
+Schlage Encode Smart Wi-Fi Deadbolt|Smart Deadbolt|Schlage|300.0|118|300-400
+Yale Assure Lock SL|Smart Lock|Yale|200.0|119|200-300
+Eufy Security Wi-Fi Video Doorbell|Video Doorbell|Eufy|150.0|120|100-200
+Bose SoundLink Color Bluetooth Speaker II|Bluetooth Speaker|Bose|120.0|121|100-200
+Anker Soundcore 2 Portable Bluetooth Speaker|Bluetooth Speaker|Anker|40.0|122|<100
+JBL Charge 4 Waterproof Portable Bluetooth Speaker|Bluetooth Speaker|JBL|100.0|123|100-200
+Sony SRS-XB12 Mini Bluetooth Speaker|Bluetooth Speaker|Sony|50.0|124|<100
+Beats Pill+ Portable Wireless Speaker|Portable Speaker|Beats|130.0|125|100-200
+Ultimate Ears WONDERBOOM 2 Portable Waterproof Bluetooth Speaker|Portable Speaker|Ultimate Ears|80.0|126|<100
+Jabra Elite Active 75t Wireless Earbuds|Wireless Earbuds|Jabra|180.0|127|100-200
+Sennheiser CX 400BT True Wireless Earbuds|Wireless Earbuds|Sennheiser|150.0|128|100-200
+Bose SoundSport Wireless Earbuds|Wireless Earbuds|Bose|130.0|129|100-200
+Apple AirPods with Wireless Charging Case|Wireless Earbuds|Apple|200.0|130|200-300
+Fitbit Charge 4 Fitness and Activity Tracker|Fitness Tracker|Fitbit|120.0|131|100-200
+Garmin Vivosmart 4 Activity and Fitness Tracker|Fitness Tracker|Garmin|100.0|132|100-200
+Mainstays 3-Shelf Bathroom Space Saver|Bathroom Space Saver|Mainstays|40.0|133|<100
+SimpleHouseware Over the Door Hanging Organizer|Hanging Organizer|SimpleHouseware|15.0|134|<100
+IKEA Raskog Utility Cart|Utility Cart|IKEA|30.0|135|<100
+Umbra Skinny Trash Can|Trash Can|Umbra|20.0|136|<100
+OXO Good Grips Stainless Steel Soap Dispenser|Soap Dispenser|OXO Good Grips|15.0|137|<100
+Command Large Utility Hooks|Utility Hooks|Command|10.0|138|<100
+Rubbermaid Brilliance Food Storage Container Set|Food Storage Container|Rubbermaid|25.0|139|<100
+Pyrex Simply Store Glass Round Food Container Set|Food Container Set|Pyrex|20.0|140|<100
+Cuisinart Stainless Steel Mixing Bowls|Mixing Bowls|Cuisinart|35.0|141|<100
+Hamilton Beach Electric Tea Kettle|Electric Tea Kettle|Hamilton Beach|25.0|142|<100
+OXO Good Grips Silicone Oven Mitts|Oven Mitts|OXO Good Grips|15.0|143|<100
+Safavieh Adirondack Modern Abstract Area Rug|Area Rug|Safavieh|100.0|144|100-200
+Serta Air Lumbar Bonded Leather Manager Office Chair|Office Chair|Serta|150.0|145|100-200
+Honey-Can-Do Rolling Laundry Sorter Cart|Laundry Sorter Cart|Honey-Can-Do|30.0|146|<100
+Shark Rotator Powered Lift-Away TruePet Upright Vacuum|Upright Vacuum|Shark|250.0|147|200-300
+Swiffer WetJet Wood Floor Mopping and Cleaning Starter Kit|Floor Cleaner|Swiffer|25.0|148|<100
+Mr. Clean Multi-Surface Cleaner with Febreze|Multi-Surface Cleaner|Mr. Clean|15.0|149|<100
+Cascade Platinum Plus Dishwasher Pods|Dishwasher Pods|Cascade|20.0|150|<100
+Clorox ToiletWand Disposable Toilet Cleaning System|Toilet Cleaning System|Clorox|10.0|151|<100
+Swiffer Sweeper Wet Mopping Cloths|Mopping Cloths|Swiffer|12.0|152|<100
+Levs Men 505|Jeans|Levis|56.0|212|<100
+Toshiba C350 4k Fire TV|Smart TV|Toshiba|370.0|213|300-400
+Nike Air Max 90|Shoes|Nikes|120.0|214|100-200
+Sony WH-1000XM4||Sony|275.0|215|200-300
+Apple Macbook Pro|Laptop|Apple|1180.0|216|>=1000
+Samsung Galaxy S20 Ultra|Smartphone|Samsung|820.0|217|800-900
+LG OLED55C1PUB 55 Inch 4K|Television|LG|1490.0|218|>=1000
+Adidas Ultraboost 21|Shoes|Adidas|179.0|219|100-200
+Microsoft Surface Pro 7|Laptop/Tablet|Microsoft|820.0|220|800-900
+Canon EOS Rebel T7i|DSLR Camera|Canon|520.0|221|500-600
+Sony Playstation 5|Console|Sony|520.0|222|500-600
+Dell XPS 13|Ultrabook|Dell|980.0|223|900-1000
+Bose QuietComfort 35 II|Wireless|Bose|310.0|224|300-400
+Samsung Q70T 55 Inch QLED|Television|Samsung|990.0|225|900-1000
+GoPro Hero 9 Black|Camera|GoPro|460.0|226|400-500
+Microsoft Xbox Series X|Console|Microsoft|490.0|227|400-500
+Asus ROG Strix G15|Laptop|Asus|1480.0|228|>=1000
+Nike Revolution 5|Shoes|Nike|63.0|229|<100
+Canon Powershot G7X Mark III|Compact Camera|Canon|720.0|230|700-800
+Apple iPhone 12 Pro Max|Phone|Apple|1180.0|231|>=1000
+LG CX 55 Inch OLED TV|Television|LG|1780.0|232|>=1000
+Garmin Forerunner 245 Music|Fitness Watch|Garmin|305.0|233|300-400
+Sony Alpha A7 III|DSLR Camera|Sony|1980.0|234|>=1000
+Bose SoundLink Color II|Portable Speaker|Bose|115.0|235|100-200
+Razer Blade 15|Laptop|Razer|1580.0|236|>=1000
+Fitbit Versa 3|Fitness Tracker|Fitbit|205.0|237|200-300
+LG 27UK850-W 27 Inch 4K|Gaming Monitor|LG|395.0|238|300-400
+Samsung Galaxy Watch 3|Fitness Watch|Samsung|410.0|239|400-500
+JBL Flip 5|Portable Speaker|JBL|105.0|240|100-200
+Logitech G Pro X Wireless|Headphones|Logitech|198.0|241|100-200
+Samsung Galaxy Tab S7|Android Tablet|Samsung|645.0|242|600-700
+Canon EOS 90D|DSLR Camera|Canon|1185.0|243|>=1000
+Apple iPad Air|iPad|Apple|595.0|244|500-600
+Garmin Venu Sq|Fitness Watch|Garmin|205.0|245|200-300
+Sony WH-CH510|Wireless|Sony|62.0|246|<100
+Bose Home Speaker 300|Wireless Speaker|Bose|255.0|247|200-300
+OnePlus 8T|Phone|OnePlus|740.0|248|700-800
+Dell S3221QS 32 Inch Curved|Gaming Monitor|Dell|395.0|249|300-400
+JBL Charge 4|Portable Speaker|JBL|155.0|250|100-200
+Roku Streaming Stick+|Media Player|Roku|55.0|251|<100
+Logitech MX Master 3|Wireless Mouse|Logitech|98.0|252|<100
+Samsung Galaxy Buds Plus|Wireless Earbuds|Samsung|145.0|253|100-200
+HP Pavilion 27xw 27 Inch IPS|Gaming Monitor|HP|305.0|254|300-400
+Apple Watch Series 6|Fitness Watch|Apple|395.0|255|300-400
+Google Pixel 4a|Phone|Google|355.0|256|300-400
+LG SN11RG 7.1.4 ch Sound Bar|Audio Device|LG|1480.0|257|>=1000
+Microsoft Surface Laptop Go|Ultrabook|Microsoft|590.0|258|500-600
+Beats Studio3 Wireless|Wireless|Beats|355.0|259|300-400
+Bose Frames Alto|Audio Sunglasses|Bose|195.0|260|100-200
+Xiaomi Redmi Note 9|Phone|Xiaomi|255.0|261|200-300
+HP Pavilion 22cwa 21.5 Inch|Gaming Monitor|HP|155.0|262|100-200
+Apple MacBook Air|Ultrabook|Apple|920.0|263|900-1000
+Samsung Galaxy A71|Phone|Samsung|390.0|264|300-400
+Logitech G502 HERO|Gaming Mouse|Logitech|78.0|265|<100
+Vizio V-Series 50 Inch 4K|Television|Vizio|395.0|266|300-400
+Jabra Elite 75t|Wireless Earbuds|Jabra|145.0|267|100-200
+Acer Nitro 5|Laptop|Acer|820.0|268|800-900
+Fitbit Charge 4|Smartwatch|Fitbit|125.0|269|100-200
+Lenovo Legion Y540|Laptop|Lenovo|1180.0|270|>=1000

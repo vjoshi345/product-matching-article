@@ -1,15 +1,13 @@
 import pandas as pd
 import splink.duckdb.comparison_library as cl
 import splink.duckdb.comparison_template_library as ctl
-from splink.datasets import splink_datasets, splink_dataset_labels
 from splink.duckdb.linker import DuckDBLinker
 from splink.duckdb.blocking_rule_library import block_on
 
-file_dir = 'C:\WalmartLabs\EntityResolutionInSearch'
-link_file_path = 'C:\WalmartLabs\EntityResolutionInSearch\synthetic_dataset\product_link_data_A_B_cleaned.txt'
-file_path_a = 'C:\WalmartLabs\EntityResolutionInSearch\synthetic_dataset\product_data_A_cleaned_w_price_cat.txt'
-file_path_b = 'C:\WalmartLabs\EntityResolutionInSearch\synthetic_dataset\product_data_B_cleaned_w_price_cat.txt'
-labels_file_path = 'C:\WalmartLabs\EntityResolutionInSearch\synthetic_dataset\product_link_data_labels_full.csv'
+link_file_path = 'data\product_link_data_A_B_cleaned.txt'
+file_path_a = 'data\product_data_A_cleaned_w_price_cat.txt'
+file_path_b = 'data\product_data_B_cleaned_w_price_cat.txt'
+labels_file_path = 'data\product_link_data_labels_full.csv'
 
 df_a = pd.read_csv(file_path_a, sep='|')
 print(df_a.shape)
@@ -51,11 +49,11 @@ session_brand = linker.estimate_parameters_using_expectation_maximisation(block_
 # Use the FS model to predict links
 results = linker.predict(threshold_match_probability=0.90)
 out_df = results.as_pandas_dataframe()
-out_df.to_csv(file_dir+'\\results\output_fs_w_price_th_090.txt', sep='|', index=False)
+out_df.to_csv('results\output_fs_w_price_th_090.txt', sep='|', index=False)
 
 # Evaluation
 labels_table = linker.register_labels_table(df_labels)
 roc_table = linker.truth_space_table_from_labels_table(labels_table)
 roc_table_df = roc_table.as_pandas_dataframe()
 print(roc_table_df.shape)
-roc_table_df.to_csv(file_dir+'\\results\\roc_table_w_price.csv', index=False)
+roc_table_df.to_csv('results\\roc_table_w_price.csv', index=False)

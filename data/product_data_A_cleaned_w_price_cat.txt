@@ -1,0 +1,80 @@
+Title|Product_Type|Brand|Price|unique_id|Price_Cat
+Nike Air Force 1 Low|Sneakers|Nike|90.0|0|<100
+Adidas Superstar|Sneakers|Adidas|80.0|1|<100
+Samsung Galaxy Buds Live|Earbuds|Samsung|170.0|2|100-200
+Sony PlayStation DualSense Wireless|Gaming Controller|Sony|70.0|3|<100
+Apple AirPods Pro|Earbuds|Apple|200.0|4|200-300
+Lenovo IdeaPad Flex 5|Laptop|Lenovo|700.0|5|700-800
+Samsung 970 EVO Plus 1TB SSD|SSD|Samsung|150.0|6|100-200
+Bose Solo 5 TV Sound System|Soundbar|Bose|250.0|7|200-300
+Google Pixel 5|Smartphone|Google|700.0|8|700-800
+Dell UltraSharp U2719DX 27 Inch|Monitor|Dell|350.0|9|300-400
+Canon EOS M50 Mark II|Camera|Canon|600.0|10|600-700
+LG Gram 17|Laptop|LG|1500.0|11|>=1000
+Garmin Fenix 6 Pro|Smartwatch|Garmin|600.0|12|600-700
+Microsoft Surface Go 2|Tablet|Microsoft|400.0|13|400-500
+Logitech G Pro X Mechanical Keyboard|Keyboard|Logitech|150.0|14|100-200
+Razer DeathAdder V2 Gaming Mouse|Mouse|Razer|60.0|15|<100
+Asus ROG Swift PG279Q 27 Inch|Monitor|Asus|700.0|16|700-800
+HP Envy 13|Laptop|HP|1000.0|17|>=1000
+Bose QuietComfort Earbuds|Earbuds|Bose|280.0|18|200-300
+Fitbit Inspire 2|Fitness Tracker|Fitbit|100.0|19|100-200
+Levis Men 505 Regular|Jeans|Levis|55.0|153|<100
+Toshiba C350 55 in 4k|Smart TV|Toshiba|350.0|154|300-400
+Nike Air Max 90|Sneakers|Nike|120.0|155|100-200
+Sony WH-1000XM4|Headphones|Sony|275.0|156|200-300
+Apple MacBook Pro|Laptop|Apple|1200.0|157|>=1000
+Samsung Galaxy S20|Smartphone|Samsung|800.0|158|800-900
+LG OLED55C1PUB 55 Inch 4K|TV|LG|1500.0|159|>=1000
+Adidas Ultraboost 21|Running Shoes|Adidas|180.0|160|100-200
+Microsoft Surface Pro 7|Tablet|Microsoft|799.0|161|700-800
+Canon EOS Rebel T7|Camera|Canon|500.0|162|500-600
+Sony PlayStation 5|Gaming Console|Sony|500.0|163|500-600
+Dell XPS 13|Laptop|Dell|1000.0|164|>=1000
+Bose QuietComfort 35 II|Headphones|Bose|300.0|165|300-400
+Samsung Q70T 55 Inch QLED|TV|Samsung|1000.0|166|>=1000
+GoPro HERO9 Black|Action Camera|GoPro|450.0|167|400-500
+Microsoft Xbox Series X|Gaming Console|Microsoft|500.0|168|500-600
+Asus ROG Strix G15|Gaming Laptop|Asus|1500.0|169|>=1000
+Nike Revolution 5|Running Shoes|Nike|65.0|170|<100
+Canon PowerShot G7 X Mark III|Camera|Canon|700.0|171|700-800
+Apple iPhone 12 Pro Max|Smartphone|Apple|1200.0|172|>=1000
+LG CX 55 Inch OLED TV|TV|LG|1800.0|173|>=1000
+Garmin Forerunner 245 Music|Smartwatch|Garmin|300.0|174|300-400
+Sony Alpha A7 III|Camera|Sony|2000.0|175|>=1000
+Bose SoundLink Color II|Bluetooth Speaker|Bose|120.0|176|100-200
+Razer Blade 15|Gaming Laptop|Razer|1600.0|177|>=1000
+Fitbit Versa 3|Smartwatch|Fitbit|200.0|178|200-300
+LG 27UK850-W 27 Inch 4K|Monitor|LG|400.0|179|400-500
+Samsung Galaxy Watch 3|Smartwatch|Samsung|400.0|180|400-500
+JBL Flip 5|Bluetooth Speaker|JBL|100.0|181|100-200
+Logitech G Pro X Wireless|Gaming Headset|Logitech|200.0|182|200-300
+Samsung Galaxy Tab S7|Tablet|Samsung|650.0|183|600-700
+Canon EOS 90D|Camera|Canon|1200.0|184|>=1000
+Apple iPad Air|Tablet|Apple|600.0|185|600-700
+Garmin Venu Sq|Smartwatch|Garmin|200.0|186|200-300
+Sony WH-CH510|Headphones|Sony|60.0|187|<100
+Bose Home Speaker 300|Smart Speaker|Bose|250.0|188|200-300
+OnePlus 8T|Smartphone|OnePlus|750.0|189|700-800
+Dell S3221QS 32 Inch Curved|Monitor|Dell|400.0|190|400-500
+JBL Charge 4|Bluetooth Speaker|JBL|150.0|191|100-200
+Roku Streaming Stick+|Streaming Device|Roku|50.0|192|<100
+Logitech MX Master 3|Mouse|Logitech|100.0|193|100-200
+Samsung Galaxy Buds Plus|Earbuds|Samsung|150.0|194|100-200
+HP Pavilion 27xw 27 Inch IPS|Monitor|HP|300.0|195|300-400
+Apple Watch Series 6|Smartwatch|Apple|400.0|196|400-500
+Google Pixel 4a|Smartphone|Google|350.0|197|300-400
+LG SN11RG 7.1.4 ch Sound Bar|Soundbar|LG|1500.0|198|>=1000
+Microsoft Surface Laptop Go|Laptop|Microsoft|600.0|199|600-700
+Beats Studio3 Wireless|Headphones|Beats|350.0|200|300-400
+Bose Frames Alto|Sunglasses|Bose|200.0|201|200-300
+Xiaomi Redmi Note 9|Smartphone|Xiaomi|250.0|202|200-300
+HP Pavilion 22cwa 21.5 Inch|Monitor|HP|150.0|203|100-200
+Apple MacBook Air|Laptop|Apple|900.0|204|900-1000
+Samsung Galaxy A71|Smartphone|Samsung|400.0|205|400-500
+Logitech G502 HERO|Mouse|Logitech|80.0|206|<100
+Vizio V-Series 50 Inch 4K|TV|Vizio|400.0|207|400-500
+Jabra Elite 75t|Earbuds|Jabra|150.0|208|100-200
+Acer Nitro 5|Gaming Laptop|Acer|800.0|209|800-900
+Fitbit Charge 4|Fitness Tracker|Fitbit|120.0|210|100-200
+Lenovo Legion Y540|Gaming Laptop|Lenovo|1200.0|211|>=1000
