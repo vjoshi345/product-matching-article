@@ -7,8 +7,8 @@ from splink.duckdb.blocking_rule_library import block_on
 
 file_dir = 'C:\WalmartLabs\EntityResolutionInSearch'
 link_file_path = 'C:\WalmartLabs\EntityResolutionInSearch\synthetic_dataset\product_link_data_A_B_cleaned.txt'
-file_path_a = 'C:\WalmartLabs\EntityResolutionInSearch\synthetic_dataset\product_data_A_cleaned.txt'
-file_path_b = 'C:\WalmartLabs\EntityResolutionInSearch\synthetic_dataset\product_data_B_cleaned.txt'
+file_path_a = 'C:\WalmartLabs\EntityResolutionInSearch\synthetic_dataset\product_data_A_cleaned_w_price_cat.txt'
+file_path_b = 'C:\WalmartLabs\EntityResolutionInSearch\synthetic_dataset\product_data_B_cleaned_w_price_cat.txt'
 labels_file_path = 'C:\WalmartLabs\EntityResolutionInSearch\synthetic_dataset\product_link_data_labels_full.csv'
 
 df_a = pd.read_csv(file_path_a, sep='|')
@@ -26,12 +26,13 @@ print(df_labels.dtypes)
 settings = {
     "link_type": "link_only",
     "comparisons": [
+        cl.exact_match("Price_Cat"),
         ctl.name_comparison("Title"),
         ctl.name_comparison("Product_Type"),
         ctl.name_comparison("Brand")
     ],
 }
-print(settings['comparisons'][3].human_readable_description)
+print(settings['comparisons'][0].human_readable_description)
 linker = DuckDBLinker([df_a, df_b], settings, input_table_aliases=["df_left", "df_right"])
 linker.completeness_chart(cols=["Title", "Product_Type", "Brand", "Price"])
 
@@ -43,13 +44,14 @@ linker.estimate_probability_two_random_records_match(deterministic_rules, recall
 
 linker.estimate_u_using_random_sampling(max_pairs=1e6, seed=1)
 
+session_price = linker.estimate_parameters_using_expectation_maximisation(block_on("Price_Cat"))
 session_title = linker.estimate_parameters_using_expectation_maximisation(block_on("Title"))
 session_brand = linker.estimate_parameters_using_expectation_maximisation(block_on("Brand"))
 
 # Use the FS model to predict links
 results = linker.predict(threshold_match_probability=0.90)
 out_df = results.as_pandas_dataframe()
-out_df.to_csv(file_dir+'\\results\output_fs_th_090.txt', sep='|', index=False)
+out_df.to_csv(file_dir+'\\results\output_fs_w_price_th_090.txt', sep='|', index=False)
 
 # Evaluation
 labels_table = linker.register_labels_table(df_labels)
